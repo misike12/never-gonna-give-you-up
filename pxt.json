@@ -1,5 +1,6 @@
 {
     "name": "Never Gonna Give You Up",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
